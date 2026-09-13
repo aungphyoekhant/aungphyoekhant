@@ -35,6 +35,12 @@
 
 ---
 
+<h4 align="start">🐍 Contribution Snake</h4>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aungphyoekhant/aungphyoekhant/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aungphyoekhant/aungphyoekhant/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aungphyoekhant/aungphyoekhant/output/github-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/aungphyoekhant/aungphyoekhant/output/github-snake-dark.svg">
+  </picture>
 </p>
