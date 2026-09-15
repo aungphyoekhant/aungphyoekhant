@@ -34,4 +34,4 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![snake gif](https://github.com/aungphyoekhant/aungphyoekhant/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/aungphyoekhant/aungphyoekhant/output/github-snake-dark.svg)
